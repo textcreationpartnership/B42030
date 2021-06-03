@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tho. Brown's recantation of his Satyr on the French King. Facit recantatio versum.</title>
+            <author>Brown, Thomas, 1663-1704.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B42030</idno><idno type="EEBO-CITATION">767839664</idno>
+  <idno type="VID">212164</idno>
+  <idno type="EEBO-PROQUEST">2240869554</idno>
+  
+            <idno type="OCLC"> 767839664</idno>
+            <idno type="OCLC">ocn 767839664</idno>
+            <idno type="STC">Wing B5074</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B42030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212164)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3001:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tho. Brown's recantation of his Satyr on the French King. Facit recantatio versum.</title>
+                  <author>Brown, Thomas, 1663-1704.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by most booksellers in London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCVII [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Printed in two columns.</note>
+                  <note>In verse.</note>
+                  <note>First line: And has this bitch my muse trapan'd me.</note>
+                  <note>Reproduction of original in: National Library of Scotland--Crawford Collections.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Brown, Thomas, 1663-1704. --  Satyr upon the French king --  Early works to 1800.</term>
+               <term type="personal_name">Louis --  XIV, --  King of France, 1638-1715 --  Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+               <term type="genre_form">Ballads --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:212164:1"/>
+            <pb facs="tcp:212164:2"/>
+            <pb facs="tcp:212164:3"/>
+            <head>
+               <hi>Tho. Brown's</hi> RECANTATION OF HIS SATYR ON THE FRENCH KING.</head>
+            <q>Facit Recantatio versum.</q>
+            <lg>
+               <l>ANd has this Bitch my Muse trapan'd me,</l>
+               <l>Then I'm as much undone as can be.</l>
+               <l>I knew the Gilt would never leave me,</l>
+               <l>Till to a Prison she'd deceived me:</l>
+               <l>Curst be the wretch, and sure he's curst</l>
+               <l>That taught the Trade of <hi>Rhyming</hi> first:</l>
+               <l>'Tis a damn'd Trade, and who pursues it,</l>
+               <l>I'll pass my word at last he rue's it.</l>
+               <l>
+                  <hi>Homer</hi> and <hi>Virgil</hi> were but Tools—</l>
+               <l>Fit only for the use of Fools.</l>
+               <l>And <hi>Horrace</hi> too with all his Art,</l>
+               <l>To Men of sense not worth a Fart:</l>
+               <l>Even <hi>Causabon</hi> for <hi>Satyr</hi> famous,</l>
+               <l>Was but a gingling Ignoramus.</l>
+               <l>And all the rest to <hi>Ben.</hi> and <hi>so forth,</hi>
+               </l>
+               <l>A Crew of useless things of no worth:</l>
+               <l>But now I have no time to rail,</l>
+               <l>The Hog hath got another Tail.</l>
+               <l>My Wits are rather on the Wrack,</l>
+               <l>To save my own Poetick Back;</l>
+               <l>Yet by the way, 'tis very hard</l>
+               <l>Poets of all Men should be barr'd,</l>
+               <l>From labouring in their proper Station;</l>
+               <l>Why, Where's the Justice of the Nation?</l>
+               <l>Believe me, Sirs, as I'm a Sinner,</l>
+               <l>I writ this <hi>Satyr</hi> for a Dinner.</l>
+               <l>And stampt it with the Parsons Name,</l>
+               <l>Not as I meant them any shame.</l>
+               <l>But since I must the Matter tell,</l>
+               <l>I thought 'twould make the Paper sell.</l>
+               <l>By all that's good, all that true is,</l>
+               <l>I ever lov'd and honour'd <hi>Lewis:</hi>
+               </l>
+               <l>He's Great and Wise, more could I say,</l>
+               <l>But fear again to dis-obey.</l>
+               <l>And for his Priests, I here protest,</l>
+               <l>I value them as all the rest:</l>
+               <l>And tho' I curst them all, What then?</l>
+               <l>The Men are honest harmless Men.</l>
+               <l>Next for King <hi>James</hi> and Prince of <hi>Wales,</hi>
+               </l>
+               <l>I always wish'd them happy Gales;</l>
+               <l>And for my sawcy naming <hi>Molly,</hi>
+               </l>
+               <l>I own 'twas Impudence and Folly.</l>
+               <l>Lastly, for naming the <hi>Non-Juror;</hi>
+               </l>
+               <l>Why, that was but Poetick furor.</l>
+               <l>I know I have ungrateful been.</l>
+               <l>'Twas raging hunger drew me in,</l>
+               <l>To abuse those very Friends that have</l>
+               <l>Almost preserv'd me from the Grave;</l>
+               <l>There honest Men, mark what I say,</l>
+               <l>If I love any Priests 'tis they.</l>
+               <l>I now confess 'tis highly base,</l>
+               <l>To insult o'er Men in such a Case:</l>
+               <l>And could the thing be done again,</l>
+               <l>I'd starve before I'd injure them.</l>
+               <l>What shall I say? I here recant,</l>
+               <l>And own my self a <hi>Sycophant:</hi>
+               </l>
+               <l>But Oh! I fear that will not do,</l>
+               <l>A thousand dismal Thoughts pursue.</l>
+               <l>I'm all in pain, and let me tell you,</l>
+               <l>My Back begins to curse my Belly.</l>
+               <l>I'm just as if at Cart-arss tyde,</l>
+               <l>With hang-man grinning by my side,</l>
+               <l>And Mob of all sorts crowding round me,</l>
+               <l>Advising <hi>Catch</hi> to swinge me soundly:</l>
+               <l>And what torments me worst of all,</l>
+               <l>Methinks that some among them bawl,</l>
+               <l>'Tis he that for a Crown to spend,</l>
+               <l>Reviles Crown'd Heads, betrays his Friend.</l>
+               <l>All this 'tis true I well deserve,</l>
+               <l>And yet 'tis very hard to starve.</l>
+               <l>So that if things were rightly stated,</l>
+               <l>Part of my Sentence might be bated.</l>
+               <pb facs="tcp:212164:4"/>
+               <l>I was of <hi>Poppins-Ally</hi> chief.</l>
+               <l>Till forc'd from thence to seek relief:</l>
+               <l>And to avoid some dangerous Rogues;</l>
+               <l>Took shelter among Paedagogues;</l>
+               <l>'Twas then like the <hi>Sicylian</hi> King,</l>
+               <l>Under strict Laws I Boys did bring:</l>
+               <l>And tho' I was but a <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>-Roy,</hi>
+               </l>
+               <l>I could command the <gap reason="illegible" resp="#murp" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>est Boy.</l>
+               <l>But here a little Time was spent</l>
+               <l>Before I left my Government.</l>
+               <l>I'm charg'd with Male Administration,</l>
+               <l>And so pull'd down from regal Station.</l>
+               <l>To Town again disgrac'd I came,</l>
+               <l>For now 'tis vain to hide my Shame;</l>
+               <l>Where since I sharp'd, and spung'd and tick'd,</l>
+               <l>Been always scorn'd, and sometimes kick'd;</l>
+               <l>And yet the worst is still behind,</l>
+               <l>Oh! hear me out and you'll be kind.</l>
+               <l>For three long Weeks my Muse and I,</l>
+               <l>Had been shut up in Garret high:</l>
+               <l>The Cause I think I need not tell,</l>
+               <l>Poets with Pox convertible.</l>
+               <l>While thus I lay in desperate state,</l>
+               <l>In comes a Baud whose name was <hi>Kate;</hi>
+               </l>
+               <l>A Rampant Bitch where once I tabled,</l>
+               <l>Who finding me of strength disabled;</l>
+               <l>Not Vows nor Promises could save me,</l>
+               <l>But off she bears the Cloaths she gave me.</l>
+               <l>And thus of Coat, even Shirt bereft,</l>
+               <l>Poor naked <hi>Tom.</hi> in Bed was left.</l>
+               <l>In this most sharp and strange distress,</l>
+               <l>T'was then I thought on Trusty <hi>Bess;</hi>
+               </l>
+               <l>Who tho' I knew she was but poor,</l>
+               <l>I always found a faithful Whore.</l>
+               <l>To her without a long Petition,</l>
+               <l>I briefely told my sad Condition.</l>
+               <l>But I forget to tell you how,</l>
+               <l>With hot Ox-cheek, and heel of Cow:</l>
+               <l>With Trotters neat and Tripe like Jelly,</l>
+               <l>She oft had fill'd my empty Belly.</l>
+               <l>And one thing more I had forgot,</l>
+               <l>Hot Furmety and Rice-milk hot.</l>
+               <l>She never let me want, for why?</l>
+               <l>It was her Trade the same to Cry.</l>
+               <l>I thought (poor fool) she pittyed me,</l>
+               <l>And thus resolve's to set me free—.</l>
+               <l>With twenty pence which she had got;</l>
+               <l>And shillings four for loan of pot.</l>
+               <l>To some convenient bulk she hies,</l>
+               <l>And there a Coat and Breeches buyes.</l>
+               <l>The want of Shirt too to supply—,</l>
+               <l>Sends me her Smock tho' hardly dry.</l>
+               <l>And more to fit me out compleat,</l>
+               <l>For th'other three pence buys a Cheat.</l>
+               <l>When thus equipp'd abroad I venture,</l>
+               <l>Hopeing on projects new to enter:</l>
+               <l>But all my hopes prove vain God wot;</l>
+               <l>
+                  <hi>Bess</hi> still must want her porridge-pot.</l>
+               <l>My belly too grows lank, for she</l>
+               <l>Had no Rice-milk nor Furmety.</l>
+               <l>All Friends I try'd not one was willing,</l>
+               <l>To credit me with one poor shilling.</l>
+               <l>In this distress without adviseing,</l>
+               <l>I fell to cursed <hi>Satyrising.</hi>
+               </l>
+               <l>Oh! pitty me or I am lost,</l>
+               <l>Far worst than when in blanket tost.</l>
+               <l>And if this time I'm spar'd from whipping,</l>
+               <l>If e'er again you catch me tripping,</l>
+               <l>May all the plagues that are befel,</l>
+               <l>On Poet poor on this side Hell:</l>
+               <l>Seize me at once, and may I be,</l>
+               <l>A publick mark of Infamy.</l>
+               <l>May all my Whores and Dunes o'ertake me,</l>
+               <l>And all my Friends even <hi>Bess</hi> forsake me.</l>
+               <l>And may the Pox with which I struggle;</l>
+               <l>Joyn'd with the Gout afflict me double:</l>
+               <l>May I at Last by Inches Die,</l>
+               <l>First loose my nose and then an Eye.</l>
+               <l>And when I am dead, then may I have,</l>
+               <l>This just <hi>Memento</hi> on my Grave:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Here Lie's</hi> T. B. <hi>of Life and fame bereft:</hi>
+               </l>
+               <l>
+                  <hi>Here lie's I mean all that the Pox hath left.</hi>
+               </l>
+               <l>
+                  <hi>There let him lie, a Wretch too mean for scorning,</hi>
+               </l>
+               <l>
+                  <hi>To all ungrateful Scriblers a long Warning.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed, and are to be Sold by most Booksellers in <hi>London</hi> and <hi>Westminster,</hi> MDCXCVII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
